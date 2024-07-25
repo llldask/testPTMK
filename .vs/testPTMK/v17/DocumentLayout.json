@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\testPTMK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\dategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\dategenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|d:\\vs\\testptmk\\testptmk\\generatearrayemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6D68F1-0264-4C21-AFFD-3AC4FB26777F}|testPTMK\\testPTMK.csproj|solutionrelative:testptmk\\generatearrayemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateGenerator.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\DateGenerator.cs",
+              "RelativeDocumentMoniker": "testPTMK\\DateGenerator.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\DateGenerator.cs",
+              "RelativeToolTip": "testPTMK\\DateGenerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:04:57.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateArrayEmployee.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\GenerateArrayEmployee.cs",
+              "RelativeDocumentMoniker": "testPTMK\\GenerateArrayEmployee.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\GenerateArrayEmployee.cs",
+              "RelativeToolTip": "testPTMK\\GenerateArrayEmployee.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwDoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:30:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\DBManager.cs",
+              "RelativeDocumentMoniker": "testPTMK\\DBManager.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\DBManager.cs",
+              "RelativeToolTip": "testPTMK\\DBManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:00:08.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenderType.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\GenderType.cs",
+              "RelativeDocumentMoniker": "testPTMK\\GenderType.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\GenderType.cs",
+              "RelativeToolTip": "testPTMK\\GenderType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:37:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\Employee.cs",
+              "RelativeDocumentMoniker": "testPTMK\\Employee.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\Employee.cs",
+              "RelativeToolTip": "testPTMK\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:57:49.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\testPTMK\\testPTMK\\Program.cs",
+              "RelativeDocumentMoniker": "testPTMK\\Program.cs",
+              "ToolTip": "D:\\VS\\testPTMK\\testPTMK\\Program.cs",
+              "RelativeToolTip": "testPTMK\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:56:27.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
